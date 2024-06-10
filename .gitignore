@@ -18,6 +18,6 @@ yarn-error.log
 /.idea
 /.vscode
 /database/migrations/*
-/database/seeders/*
+# /database/seeders/*
 /routes/api.php
-/app/Http/*
+# /app/Http/*
